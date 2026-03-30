@@ -1,25 +1,22 @@
+# Student Grade Calculator
 
-# Student Grade Calculator (Java)
-
-A simple Java program to calculate total marks, average, and grade of a student.
+This is a Java-based application that calculates student grades based on marks entered by the user.
 
 ## Features
-- Input marks for multiple subjects
-- Calculates total and average
-- Assigns grade based on average
+- Takes input for multiple subjects
+- Calculates total and average marks
+- Assigns grades based on performance
 
-## Grade Criteria
-- A+ : 90 and above
-- A  : 80 - 89
-- B  : 70 - 79
-- C  : 60 - 69
-- D  : 50 - 59
-- F  : Below 50
+## Technologies Used
+- Java
+- OOP concepts
 
 ## How to Run
+1. Compile the program:
+   javac Main.java
 
-1. Compile:
-   javac StudentGradeCalculator.java
+2. Run the program:
+   java Main
 
-2. Run:
-   java StudentGradeCalculator
+## Author
+Himanshu Shiwane
